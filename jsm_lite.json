@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;8599a715437d21e6660ad75f36967e70",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/jar/spider.jar;md5;8599a715437d21e6660ad75f36967e70",
   "lives": [
     {
       "name": "migu",
@@ -1666,5 +1666,6 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+  "default_home": "量子"
 }
