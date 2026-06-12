@@ -64,7 +64,7 @@
       "key": "新闪雷",
       "name": "新闪雷┃MP4",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/lib/drpy2.min.js",
       "ext": "./js/新闪雷.js",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
@@ -91,7 +91,7 @@
       "key": "cupfox_in",
       "name": "茶杯狐┃cupfox.in",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/lib/drpy2.min.js",
       "ext": "./js/茶杯狐.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -105,7 +105,7 @@
       "key": "TVB云播",
       "name": "TVB云播 | 影视",
       "type": 3,
-      "api": "./py/TVB云播.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/py/TVB云播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -115,7 +115,7 @@
       "key": "italkbbtv",
       "name": "ITalkBB｜外",
       "type": 3,
-      "api": "./py/ITalkBBTV.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/py/ITalkBBTV.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -619,7 +619,7 @@
       "key": "星芽短剧",
       "name": "星芽｜短剧",
       "type": 3,
-      "api": "./py/星芽短剧.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/py/星芽短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -735,7 +735,7 @@
       "key": "Anime1",
       "name": "A1｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/lib/drpy2.min.js",
       "ext": "./js/Anime1.js"
     },
     {
@@ -798,14 +798,14 @@
       "key": "路漫漫",
       "name": "路漫漫｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/lib/drpy2.min.js",
       "ext": "./js/路漫漫.js"
     },
     {
       "key": "去看吧",
       "name": "去看吧｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/LeeCQiang/tvbox/master/lib/drpy2.min.js",
       "ext": "./js/去看吧.js"
     },
     {
